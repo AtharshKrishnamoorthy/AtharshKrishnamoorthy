@@ -28,7 +28,16 @@ I am guy who is more passionate about building intelligent, scalable application
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00A3A3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAyNTkgMjU5IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTU4LjYyIDIuMzQxODRDMjA1LjIyIDEyLjE0MTggMjQyLjkyIDUwLjY0MTggMjUyLjAyIDk4LjE0MTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNOTkuODIyIDIuMzQxODFDNTMuMzIyMyAxMi42NjE4IDE2LjcyMjMgNTIuMTQxOCA4LjEyMjMxIDk4LjM0MTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNOC4zMjIyOSAxNjAuNjQyQzE3LjkyMjMgMjA2Ljg0MiA1Ni42MjIzIDI0NS4wNDIgMTAzLjAyIDI1NC42NDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTU4LjYyIDI1NC42NDJDMjA0LjIyIDI0NC42NDIgMjQyLjcyIDIwNy4yNDIgMjUyLjUyIDE2MC42NDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTMwLjAyIDcyLjU0MTVMMTMwLjEyIDcyLjQ0MTUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTMwLjAyIDE4OC4yNDFMMTMwLjEyIDE4OC4xNDEiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNNTUuMDIyMyAxMjkuNTQyQzU3LjIyMjMgMTI2LjY0MiA2MS43MjIzIDEyNi42NDIgNjQuMDIyMyAxMjkuNTQyTDc0LjgyMjMgMTQyLjk0MkM3Ny4wMjIzIDE0NS44NDIgNzYuOTIyMyAxNTAuMDQyIDc0LjgyMjMgMTUyLjk0MkwgNjQuMDIyMyAxNjYuMjQyQzYxLjgyMjMgMTY5LjE0MiA1Ny4zMjIzIDE2OS4xNDIgNTUuMDIyMyAxNjYuMjQyTDQ0LjMyMjMgMTUyLjg0MkM0Mi4xMjIzIDE0OS45NDIgNDIuMjIyMyAxNDUuNzQyIDQ0LjMyMjMgMTQyLjg0Mkw1NS4wMjIzIDEyOS41NDJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### LLMops 
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-%23F46222.svg?style=for-the-badge)
+![AgentOps](https://img.shields.io/badge/AgentOps-%238A2BE2.svg?style=for-the-badge)
+![Opik](https://img.shields.io/badge/Opik-%23333333.svg?style=for-the-badge)
+
 
 ### Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
